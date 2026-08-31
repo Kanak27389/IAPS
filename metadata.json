@@ -1,0 +1,6 @@
+{
+  "name": "Icon Academy of Information Technology",
+  "description": "Comprehensive institutional portal for Icon Academy offering course browsing, online admission, fee payment, document upload, application tracking, certificate verification, campus gallery, and contact services.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
